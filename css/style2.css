@@ -1,0 +1,50 @@
+.navbar-brand img{
+	width:100px;
+	margin-top:-14px;
+}
+#textjud{
+	font-size:50px;
+	color: #ffffff;
+}
+.lead{
+	width: 821px;
+    margin: 0px auto;
+}
+li a:hover{
+	border-top: 2px solid #2EC4B6;
+}
+.desjud{
+	text-align: center;
+}
+.desjud2 {
+    text-align: center;
+    color: white;
+}
+.text-muted {
+    color: #2EC4B6;
+}
+.text-muted2 {
+    color: #ccc;;
+}
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+.service-icon {
+	margin-bottom: 20px;
+}	
+.service-icon img{
+	margin: 26px 0px 5px 125px;
+}	
+.service-desc{
+	color:white;
+	margin:16px 0px 0px 0px;
+}
+h4{
+	text-align: center;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    background-color: #1cbfb0;
+}
